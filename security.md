@@ -180,4 +180,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*VRChat · Updated 2026-11-23 · Shared under the MIT License*
+*VRChat · Updated 2026-11-24 · Shared under the MIT License*
